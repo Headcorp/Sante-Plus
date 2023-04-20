@@ -8,7 +8,7 @@ const fs = require("fs");
 require("dotenv").config();
 const emailjs = require('@emailjs/nodejs');
 
-const publicPath = path.join(__dirname, ".", "src");
+const publicPath = path.join(__dirname, ".", "public");
 const port = process.env.PORT || 3001;
 
 var corsOptions = {
