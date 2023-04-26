@@ -100,10 +100,10 @@ title: Merci de nous avoir contacté
                   <img height=80 width="50" src="./images/link.png" class="hover:opacity-60"></img>
                </a>
             </div>
-         </div>           
+         </div>
       </div>
   </div>
-  </div>              
+  </div>
   </div>
   </body>
 </html>`;
